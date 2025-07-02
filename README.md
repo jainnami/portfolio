@@ -1,18 +1,42 @@
 # Hi there, I'm Nami! 👋
 
-Welcome to my GitHub! I'm a Master’s student in **Data Science** at **Columbia University**, and I recently graduated **summa cum laude** from **Virginia Tech** with a B.S. in **Computational Modeling & Data Analytics** and a minor in **Smart & Sustainable Cities**. I’m passionate about using machine learning, AI, and cloud technologies to solve real-world challenges in infrastructure, sustainability, and public health.
+Welcome to my GitHub! I'm a Master’s student in **Data Science** at **Columbia University**, and I recently graduated **summa cum laude** from **Virginia Tech** with a B.S. in **Computational Modeling & Data Analytics** and a minor in **Smart & Sustainable Cities**. My work blends AI, systems thinking, and sustainable innovation — from emergency response analytics to intelligent infrastructure and space-grade biometrics.
 
 ---
 
 ## 🔍 About Me
 
 <ul>
-  <li>🧠 <strong>Data Scientist Intern at MITRE</strong> (June 2024 – August 2025): Built real-time traffic dashboards, applied NLP to disaster response data, and co-authored a federally reviewed infrastructure risk report.</li>
-  <li>✈️ <strong>IT & Data Analytics Intern at Boeing</strong> (Summer 2023): Developed supply chain forecasting models and interactive dashboards used by enterprise planners.</li>
-  <li>🏙️ <strong>Smart Cities for Good Researcher</strong>: Led NLP work on GenAI image realism, co-authoring a paper on AI-generated cityscapes (under review).</li>
-  <li>🧬 <strong>AI Lead on Project Hypnos</strong>: Built a ML pipeline using biometric data to control ISS sleep pod lighting—presented the prototype at the 2025 Venice Architecture Biennale.</li>
-  <li>📫 Currently seeking <strong>Summer 2025 internships or full-time roles</strong> in data science, ML/AI, or applied research — <a href="https://github.com/nami-jain/resume/blob/main/NamiJain_Resume.pdf">View my resume</a>.</li>
+  <li>🧠 <strong>Data Scientist Intern at MITRE</strong> (June 2024 – August 2025): Developed NLP pipelines for disaster response, built traffic analytics dashboards, and conducted satellite network risk assessments.</li>
+  <li>✈️ <strong>IT & Data Analytics Intern at Boeing</strong> (Summer 2023): Created forecasting models and dashboards to improve supplier risk response across millions of records.</li>
+  <li>🏗️ <strong>Innovation Intern at Turner Construction</strong>: Explored emerging technologies in construction data workflows, contributing to digital transformation initiatives.</li>
+  <li>🏙️ <strong>Smart Cities for Good Researcher</strong>: Led NLP work on AI-generated urban imagery and co-authored a paper on spatial bias (under review).</li>
+  <li>🧬 <strong>AI Lead on Project Hypnos</strong>: Designed a real-time biometric feedback system to regulate astronaut sleep environments, presented at the 2025 Venice Architecture Biennale.</li>
+  <li>📫 Actively seeking <strong>Summer 2025 internships or full-time roles</strong> — <a href="https://github.com/nami-jain/resume/blob/main/NamiJain_Resume.pdf">View my resume</a>.</li>
 </ul>
+
+---
+
+## 📌 Pinned Projects
+
+<table>
+  <tr>
+    <td><a href="https://github.com/nami-jain/hypnos-ml-lighting">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nami-jain&repo=hypnos-ml-lighting&theme=vision-friendly-dark" alt="Hypnos Lighting AI" /></a>
+    </td>
+    <td><a href="https://github.com/nami-jain/traffic-analytics-dashboard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nami-jain&repo=traffic-analytics-dashboard&theme=vision-friendly-dark" alt="Traffic Dashboard" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nami-jain/supply-chain-predictive-models">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nami-jain&repo=supply-chain-predictive-models&theme=vision-friendly-dark" alt="Boeing Forecasting Models" /></a>
+    </td>
+    <td><a href="https://github.com/nami-jain/genai-urban-bias-analysis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nami-jain&repo=genai-urban-bias-analysis&theme=vision-friendly-dark" alt="GenAI Urban Bias NLP" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -29,28 +53,6 @@ AWS (SageMaker, EC2, S3), Azure, MongoDB, SQL Server, Power BI, Tableau
 
 **Software & Practices:**  
 Git, JIRA, Agile, Kibana, VS Code, SQLAlchemy, PyTest  
-
----
-
-## 🧪 Projects & Research Highlights
-
-- 🚦 **Real-Time Traffic Analysis @ MITRE**  
-  Built 3+ Kibana dashboards using VDOT and Ubiquia data; enabled 40% faster reporting on traffic patterns.
-
-- 🆘 **Disaster Response Modeling @ MITRE**  
-  Used NLP on text logs, sensors, and camera feeds to reduce false positives in emergency response alerts by 30%.
-
-- 🛰️ **Satellite Risk Assessment @ MITRE**  
-  Conducted network analysis and visualizations to evaluate COSPAS-SARSAT infrastructure risk for CISA NRMC’s STAR Team.
-
-- 📦 **Supply Chain Risk Forecasting @ Boeing**  
-  Built and validated time series models improving disruption prediction by 31% using 2M+ records.
-
-- 🧠 **AI + Urban Bias Research @ VT**  
-  Conducted topic modeling on 200+ survey responses and co-authored a paper on spatial bias in GenAI images.
-
-- 🌙 **Hypnos Sleep Pod Project**  
-  Created an ML pipeline driven by Fitbit biometrics to dynamically regulate ISS sleep pod lighting for astronauts.
 
 ---
 
