@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a Master’s student in **Data Science** at **Columbia
   <li>🏗️ <strong>Innovation Intern at Turner Construction</strong>: Explored emerging technologies in construction data workflows, contributing to digital transformation initiatives.</li>
   <li>🏙️ <strong>Smart Cities for Good Researcher</strong>: Led NLP work on AI-generated urban imagery and co-authored a paper on spatial bias (under review).</li>
   <li>🧬 <strong>AI Lead on Project Hypnos</strong>: Designed a real-time biometric feedback system to regulate astronaut sleep environments, presented at the 2025 Venice Architecture Biennale.</li>
-  <li>📫 Actively seeking <strong>Summer 2025 internships or full-time roles</strong> — <a href="https://github.com/nami-jain/resume/blob/main/NamiJain_Resume.pdf">View my resume</a>.</li>
+  <li>📫 Actively seeking <strong>Summer 2026 internships or full-time roles</strong> — <a href="https://github.com/nami-jain/resume/blob/main/NamiJain_Resume.pdf">View my resume</a>.</li>
 </ul>
 
 ---
