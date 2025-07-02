@@ -1,62 +1,83 @@
 # Hi there, I'm Nami! 👋
 
-Welcome to my github! My name's Nami Jain and I am Master's student at Columbia University studying Data Science. I have a passion for computer programming and software development.
-This passion of mine has given me the ability to develop a multitude of programs and learn new technologies.
+Welcome to my GitHub! I'm a Master’s student in **Data Science** at **Columbia University**, and I recently graduated **summa cum laude** from **Virginia Tech** with a B.S. in **Computational Modeling & Data Analytics** and a minor in **Smart & Sustainable Cities**. I’m passionate about using machine learning, AI, and cloud technologies to solve real-world challenges in infrastructure, sustainability, and public health.
 
-## About me 👨‍💻
-<p>
-    <ul>
-        <li>🏢 During summer 2024, I interned at Quest Diagnostics as an AI Intern.</li>
-        <li>🔭 I’m currently doing research on developing an AI-powered EHR summarization system in collaboration with CPC Integrated Health.</li>
-        <li>🌱 I’m currently taking interesting courses on artificial intelligence and networking.</li>
-        <li>🏆 I recently received my Certified Cloud Practitioner Certification from Amazon Web Services.</li> 
-        <li>📫 I'm seeking internship/full-time opportunities for Summer 2025, attached is my <a href="https://github.com/Aditya1409/Resume/blob/main/AdityaP_Resume.pdf">Resume</a></li>
-    </ul>
-</p>
+---
 
-### Connect With Me! 🤝
+## 🔍 About Me
+
+<ul>
+  <li>🧠 <strong>Data Scientist Intern at MITRE</strong> (June 2024 – August 2025): Built real-time traffic dashboards, applied NLP to disaster response data, and co-authored a federally reviewed infrastructure risk report.</li>
+  <li>✈️ <strong>IT & Data Analytics Intern at Boeing</strong> (Summer 2023): Developed supply chain forecasting models and interactive dashboards used by enterprise planners.</li>
+  <li>🏙️ <strong>Smart Cities for Good Researcher</strong>: Led NLP work on GenAI image realism, co-authoring a paper on AI-generated cityscapes (under review).</li>
+  <li>🧬 <strong>AI Lead on Project Hypnos</strong>: Built a ML pipeline using biometric data to control ISS sleep pod lighting—presented the prototype at the 2025 Venice Architecture Biennale.</li>
+  <li>📫 Currently seeking <strong>Summer 2025 internships or full-time roles</strong> in data science, ML/AI, or applied research — <a href="https://github.com/nami-jain/resume/blob/main/NamiJain_Resume.pdf">View my resume</a>.</li>
+</ul>
+
+---
+
+## 💻 Languages & Technologies
+
+**Languages:**  
+Python, R, Java, SQL, C, MATLAB, DAX, HTML/CSS  
+
+**Frameworks & Tools:**  
+TensorFlow, PyTorch, HuggingFace, LangChain, GraphQL, OpenCV, Flask, FastAPI, React, .NET, REST APIs  
+
+**Data & Cloud Platforms:**  
+AWS (SageMaker, EC2, S3), Azure, MongoDB, SQL Server, Power BI, Tableau  
+
+**Software & Practices:**  
+Git, JIRA, Agile, Kibana, VS Code, SQLAlchemy, PyTest  
+
+---
+
+## 🧪 Projects & Research Highlights
+
+- 🚦 **Real-Time Traffic Analysis @ MITRE**  
+  Built 3+ Kibana dashboards using VDOT and Ubiquia data; enabled 40% faster reporting on traffic patterns.
+
+- 🆘 **Disaster Response Modeling @ MITRE**  
+  Used NLP on text logs, sensors, and camera feeds to reduce false positives in emergency response alerts by 30%.
+
+- 🛰️ **Satellite Risk Assessment @ MITRE**  
+  Conducted network analysis and visualizations to evaluate COSPAS-SARSAT infrastructure risk for CISA NRMC’s STAR Team.
+
+- 📦 **Supply Chain Risk Forecasting @ Boeing**  
+  Built and validated time series models improving disruption prediction by 31% using 2M+ records.
+
+- 🧠 **AI + Urban Bias Research @ VT**  
+  Conducted topic modeling on 200+ survey responses and co-authored a paper on spatial bias in GenAI images.
+
+- 🌙 **Hypnos Sleep Pod Project**  
+  Created an ML pipeline driven by Fitbit biometrics to dynamically regulate ISS sleep pod lighting for astronauts.
+
+---
+
+## 📚 Publications
+
+- Kim, J., Jain, N., Jang, K. M., & Ye, X. *Imagining the City: Evaluating Visual Realism and Place Identity in AI-Generated Cityscapes Using DALL·E 2*. Under Review, Smart Cities for Good, Virginia Tech, 2025.
+
+---
+
+## 📈 GitHub Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nami-jain&theme=dark&background=000000)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nami-jain&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🤝 Connect with Me
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/adityaparekh">
-    <img src="https://img.shields.io/badge/LinkedIn: adityaparekh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/nami-jain">
+    <img src="https://img.shields.io/badge/LinkedIn: nami--jain-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-<div id="badges">
-  <a href="mailto:parekhaditya14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail: parekhaditya14-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="mailto:jainnami02@gmail.com">
+    <img src="https://img.shields.io/badge/Email: jainnami02@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
 ---
 
-### 💻 Programmming/Scripting Languages:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
-
-### 🛠️ Development Tools:
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
-    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mongodb.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
-    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
-
-</div>
-
-### 🧠 Concepts:
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-</div>
-
----
-### 🔥 My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aditya1409&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1409&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+Thanks for visiting! Feel free to explore my repositories or reach out if you'd like to collaborate. 🚀
